@@ -117,15 +117,20 @@ PRODUCT_PACKAGES += \
 
 # Custom CM packages
 PRODUCT_PACKAGES += \
-    AudioFX \
+    MusicFX \
     CMSettingsProvider \
     LineageSetupWizard \
-    Eleven \
+    Vinyl \
     ExactCalculator \
-    Jelly \
+    Etar \
+    Waterfox \
+    FairEmail \
+    OpenCamera \
+    Gallery \
+    QKSMS \
     LockClock \
     ThemeInterfacer \
-    Trebuchet \
+    Lean-Launcher \
     Updater \
     WallpaperPicker \
     WeatherProvider
