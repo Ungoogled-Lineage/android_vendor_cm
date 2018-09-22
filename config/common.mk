@@ -124,8 +124,6 @@ PRODUCT_PACKAGES += \
     ExactCalculator \
     Etar \
     Lightning \
-    OpenCamera \
-    Gallery \
     QKSMS \
     LockClock \
     ThemeInterfacer \
