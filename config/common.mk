@@ -123,8 +123,7 @@ PRODUCT_PACKAGES += \
     Vinyl \
     ExactCalculator \
     Etar \
-    Waterfox \
-    FairEmail \
+    Lightning \
     OpenCamera \
     Gallery \
     QKSMS \
