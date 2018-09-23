@@ -127,7 +127,7 @@ PRODUCT_PACKAGES += \
     QKSMS \
     LockClock \
     ThemeInterfacer \
-    LeanLauncher \
+    Hayai \
     Updater \
     WallpaperPicker \
     WeatherProvider
