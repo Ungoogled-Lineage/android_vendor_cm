@@ -128,6 +128,7 @@ PRODUCT_PACKAGES += \
     LockClock \
     ThemeInterfacer \
     Hayai \
+    JustSearch \
     Updater \
     WallpaperPicker \
     WeatherProvider
