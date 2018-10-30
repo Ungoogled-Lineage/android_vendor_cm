@@ -117,16 +117,11 @@ PRODUCT_PACKAGES += \
 
 # Custom CM packages
 PRODUCT_PACKAGES += \
-    AudioFX \
     CMSettingsProvider \
     LineageSetupWizard \
-    Eleven \
     ExactCalculator \
-    Jelly \
     LockClock \
     ThemeInterfacer \
-    Trebuchet \
-    Updater \
     WallpaperPicker \
     WeatherProvider
 
