@@ -117,6 +117,10 @@ PRODUCT_PACKAGES += \
 
 # Custom CM packages
 PRODUCT_PACKAGES += \
+    Etar \
+    JustSearch \
+    QKSMS \
+    Vinyl \
     CMSettingsProvider \
     LineageSetupWizard \
     ExactCalculator \
